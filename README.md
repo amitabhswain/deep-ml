@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 0 problems · 0 labs · 3 math
+**4** solved · 0 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://amitabhswain.github.io/deep-ml/) to replay this filling in over time.
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-09-21 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 
 ## Math
 
