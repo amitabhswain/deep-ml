@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:33:23.697Z",
+  "generated_at": "2026-09-24T21:48:05.207Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -70,6 +70,17 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-09-23T07:33:23.032Z",
       "last_pushed_at": "2026-09-23T07:33:23.032Z"
+    },
+    "math:137": {
+      "kind": "math",
+      "id": "137",
+      "title": "DDPM Forward-Process Variance Schedule",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/137",
+      "path": "math/0137-ddpm-forward-process-variance-schedule",
+      "first_solved_at": "2026-09-24T21:48:04.397Z",
+      "last_pushed_at": "2026-09-24T21:48:04.397Z"
     }
   }
 }
