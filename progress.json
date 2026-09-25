@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:48:05.207Z",
+  "generated_at": "2026-09-25T04:57:33.580Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -81,6 +81,19 @@
       "path": "math/0137-ddpm-forward-process-variance-schedule",
       "first_solved_at": "2026-09-24T21:48:04.397Z",
       "last_pushed_at": "2026-09-24T21:48:04.397Z"
+    },
+    "lab:36": {
+      "kind": "lab",
+      "id": "36",
+      "title": "Design Your Own PTQ",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/36",
+      "path": "labs/0036-design-your-own-ptq",
+      "first_solved_at": "2026-09-25T04:57:32.679Z",
+      "last_pushed_at": "2026-09-25T04:57:32.679Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
